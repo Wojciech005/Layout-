@@ -1,13 +1,13 @@
 @font-face {
     font-family: "calibre-medium";
-    src: url("/Fonts/Calibre/Calibre-Medium.otf");
-    src: url("/Fonts/Calibre/Calibre-Regular.otf");
-    src: url("/Fonts/Calibre/Calibre-Bold.otf");
+    src: url("/Calibre-Medium.otf");
+    src: url("/Calibre-Regular.otf");
+    src: url("/Calibre-Bold.otf");
 }
 
 @font-face {
     font-family: "Futura";
-    src: url("/Fonts/futura/FuturaBookBT.otf")
+    src: url("/FuturaBookBT.otf")
 }
 
 
