@@ -83,7 +83,7 @@ nav a:hover {
     flex-basis: 100%;
     text-align: center;
     color: #044B35;
-    font-family: calibre-regular;
+    font-family: "calibre-regular";
 
 }
 
@@ -126,7 +126,7 @@ select {
 span {
     margin-top: 5px;
     font-size: 18px;
-    font-family: calibre-regular;
+    font-family: "calibre-regular";
 }
 
 
@@ -152,7 +152,7 @@ div.active__scenario {
 div.active__scenario h1 {
     flex-basis: 100%;
     font-size: 45px;
-    font-family: calibre-regular;
+    font-family: "calibre-regular";
 
 }
 
